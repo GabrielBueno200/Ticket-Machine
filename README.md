@@ -1,3 +1,3 @@
 # Ticket-Machine
 
-Atividade de laboratório da disciplina de Simulação e Testes de Software, requisito do curso de Ciência da Computação da FEI. O objetivo principal é realizar uma revisão de código e de documentos do projeto fornecido, corrigindo os problemas identificados e realizando testes de unidade.
+Atividade de laboratório da disciplina de Simulação e Testes de Software, requisito do curso de Ciência da Computação da FEI. O objetivo principal é realizar uma revisão de código e de documentos do projeto fornecido, corrigindo os problemas identificados e realizando testes de unidade automatizados via Github Actions.
